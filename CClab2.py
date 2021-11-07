@@ -25,7 +25,7 @@ for a in temp2_list:
 
 print(main_list)
 
-
+print(main_list)
 
 
 
