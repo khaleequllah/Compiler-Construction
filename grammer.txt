@@ -1,0 +1,6 @@
+	id	+	*	(	)	$
+E	TA			TA		
+A		+TA			@	@
+T	FB			FB		
+B		@	*FB		@	@
+F	id			(E)		
