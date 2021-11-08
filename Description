@@ -1,0 +1,20 @@
+C++ is extensively used programming language. You are required to develop a lexical analyzer of C++. 
+This program will input a source code from file input.txt , and will find potential tokens and display their typealong their values. 
+Following pattern will be used.
+TOKEN_TYPE TOKEN_VALUE
+You are required to find following potential tokens.
+
+1.Strings
+2.Single Line and multiline comments
+3.Keywords (You can find list of keywords on web)
+4.Arithmatic Operators (List can be found on web)
+5.Logical Operators (List can be found on web)
+6.Library name (pattern will be like <stdio.h>)
+7.Digits
+8.Floating point numbers
+
+There will be many lexeme separator, like space, arithmetic operators, logical operators etc etc. 
+You have used C++, you MUST identify potential lexeme separators and implement lexical analyzer by yourself.
+
+This file will have all NFA’s (which you think are required for this task),
+and python source code.
