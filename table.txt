@@ -1,0 +1,39 @@
+-	buster	chat	joe	the	a	bear	squir	true	fish	log	angry	fright	little	tall	chased	saw	said	thou	was	put	on	$	S'	S	X	N	Y	Q	P	D	M	A	V	R
+0	s7	s8	s9	s5	s6	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	1	2	 	 	 	4	3	 	 	 	 
+1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	acc	 	 	 	 	 	 	 	 	 	 	 	 
+2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	s12	s13	s14	s15	s16	s17	 	 	 	 	 	 	10	 	 	 	 	 	11	 
+3	 	 	 	 	 	s25	s26	s27	s28	s29	s21	s22	s23	s24	 	 	 	 	 	 	 	 	 	 	 	18	 	 	 	 	20	19	 	 
+4	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r3	r3	r3	r3	r3	r3	r3	r3	 	 	 	 	 	 	 	 	 	 	 	 
+5	 	 	 	 	 	r14	r14	r14	r14	r14	r14	r14	r14	r14	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+6	 	 	 	 	 	r15	r15	r15	r15	r15	r15	r15	r15	r15	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+7	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r11	r11	r11	r11	r11	r11	r11	r11	 	 	 	 	 	 	 	 	 	 	 	 
+8	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r12	r12	r12	r12	r12	r12	r12	r12	 	 	 	 	 	 	 	 	 	 	 	 
+9	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r13	r13	r13	r13	r13	r13	r13	r13	 	 	 	 	 	 	 	 	 	 	 	 
+10	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r1	 	 	 	 	 	 	 	 	 	 	 	 
+11	s7	s8	s9	s5	s6	 	 	 	 	 	s21	s22	s23	s24	 	 	 	 	 	 	 	 	 	32	31	 	 	 	4	3	 	30	 	 
+12	r25	r25	r25	r25	r25	 	 	 	 	 	r25	r25	r25	r25	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+13	r26	r26	r26	r26	r26	 	 	 	 	 	r26	r26	r26	r26	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+14	r27	r27	r27	r27	r27	 	 	 	 	 	r27	r27	r27	r27	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+15	r28	r28	r28	r28	r28	 	 	 	 	 	r28	r28	r28	r28	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+16	r29	r29	r29	r29	r29	 	 	 	 	 	r29	r29	r29	r29	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+17	r30	r30	r30	r30	r30	 	 	 	 	 	r30	r30	r30	r30	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+18	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r2	r2	r2	r2	r2	r2	r2	r2	 	 	 	 	 	 	 	 	 	 	 	 
+19	 	 	 	 	 	s25	s26	s27	s28	s29	s21	s22	s23	s24	 	 	 	 	 	 	 	 	 	 	 	33	 	 	 	 	20	19	 	 
+20	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r5	r5	r5	r5	r5	r5	r5	r5	 	 	 	 	 	 	 	 	 	 	 	 
+21	 	 	 	 	 	r21	r21	r21	r21	r21	r21	r21	r21	r21	 	 	 	 	 	 	 	r21	 	 	 	 	 	 	 	 	 	 	 	 
+22	 	 	 	 	 	r22	r22	r22	r22	r22	r22	r22	r22	r22	 	 	 	 	 	 	 	r22	 	 	 	 	 	 	 	 	 	 	 	 
+23	 	 	 	 	 	r23	r23	r23	r23	r23	r23	r23	r23	r23	 	 	 	 	 	 	 	r23	 	 	 	 	 	 	 	 	 	 	 	 
+24	 	 	 	 	 	r24	r24	r24	r24	r24	r24	r24	r24	r24	 	 	 	 	 	 	 	r24	 	 	 	 	 	 	 	 	 	 	 	 
+25	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r16	r16	r16	r16	r16	r16	r16	r16	 	 	 	 	 	 	 	 	 	 	 	 
+26	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r17	r17	r17	r17	r17	r17	r17	r17	 	 	 	 	 	 	 	 	 	 	 	 
+27	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r18	r18	r18	r18	r18	r18	r18	r18	 	 	 	 	 	 	 	 	 	 	 	 
+28	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r19	r19	r19	r19	r19	r19	r19	r19	 	 	 	 	 	 	 	 	 	 	 	 
+29	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r20	r20	r20	r20	r20	r20	r20	r20	 	 	 	 	 	 	 	 	 	 	 	 
+30	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r6	 	 	 	 	 	 	 	 	 	 	 	 
+31	 	 	 	 	 	 	 	 	 	 	 	 	 	 	s12	s13	s14	s15	s16	s17	s36	r7	 	 	 	 	10	34	 	 	 	 	11	35
+32	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r8	 	 	 	 	 	 	 	 	 	 	 	 
+33	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r4	r4	r4	r4	r4	r4	r4	r4	 	 	 	 	 	 	 	 	 	 	 	 
+34	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r9	 	 	 	 	 	 	 	 	 	 	 	 
+35	s7	s8	s9	s5	s6	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	37	 	 	 	4	3	 	 	 	 
+36	r31	r31	r31	r31	r31	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+37	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	r10	 	 	 	 	 	 	 	 	 	 	 	 
